@@ -46,3 +46,6 @@
 <p align="center" >
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devscyu&layout=compact&hide=html&bg_color=00000000&text_color=7a7a7a"/>
 </p>
+
+
+I am alt scyu :)
