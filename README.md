@@ -2,7 +2,6 @@
     <!--    Code Editors-->
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-5194f0?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Intellij%20IDEA-5194f0?style=for-the-badge&logo=intellij%20idea&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-PHPStorm-5194f0?style=for-the-badge&logo=phpstorm&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Sublime-5194f0?style=for-the-badge&logo=sublimetext&logoColor=white"/>
     <!--    Languages--><br>
     <img src="https://img.shields.io/badge/-PHP-5194f0?style=for-the-badge&logo=php&logoColor=white"/>
@@ -11,8 +10,6 @@
     <img src="https://img.shields.io/badge/-JavaScript-5194f0?style=for-the-badge&logo=javascript&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Node.js-5194f0?style=for-the-badge&logo=node.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/-HTML5-5194f0?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Laravel-5194f0?style=for-the-badge&logo=laravel&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Symphony-5194f0?style=for-the-badge&logo=symphony&logoColor=white"/>
     <!--    Software--><br>
 	<img src="https://img.shields.io/badge/-Composer-5194f0?style=for-the-badge&logo=composer&logoColor=white"/>
 	<img src="https://img.shields.io/badge/-Gradle-5194f0?style=for-the-badge&logo=gradle&logoColor=white"/>
