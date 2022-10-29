@@ -23,9 +23,6 @@
 	<img src="https://img.shields.io/badge/-MySQL-5194f0?style=for-the-badge&logo=mysql&logoColor=white"/>
 	<img src="https://img.shields.io/badge/-SQLite-5194f0?style=for-the-badge&logo=sqlite&logoColor=white"/>
 	<img src="https://img.shields.io/badge/-Kotlin-5194f0?style=for-the-badge&logo=kotlin&logoColor=white"/>
-	<img src="https://img.shields.io/badge/-Apache-5194f0?style=for-the-badge&logo=apache&logoColor=white"/>
-	<img src="https://img.shields.io/badge/-Nginx-5194f0?style=for-the-badge&logo=nginx&logoColor=white"/>
-	<img src="https://img.shields.io/badge/-Wireguard-5194f0?style=for-the-badge&logo=wireguard&logoColor=white"/>
     <!--    Operating Systems--><br>
     <img src="https://img.shields.io/badge/-Windows-5194f0?style=for-the-badge&logo=windows&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Linux-5194f0?style=for-the-badge&logo=linux&logoColor=white"/>
